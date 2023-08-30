@@ -72,8 +72,6 @@ body {
 
     width: 100%;
     padding: 10px;
-
-
 }
 
 #imgBox.show-img {
@@ -81,8 +79,6 @@ body {
     max-height: 300px;
     margin: 10px auto;
     border: 1px solid #d1d1d1;
-
-
 }
 
 .error {
